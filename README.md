@@ -2,12 +2,11 @@
 
 I'm Swopnil. I study Computer Science and Data Science at Luther College, IA. Welcome to my GitHub! 
 
-Feel free to browse around some of my open source work on GitHub. You can view more of my work at `swopnil.com` and if you need to contact me, you can reach me at `_ @ swopnil.com` or `t.me/swopnilnep`. If you have a project or opportunity that I might be interested in or you want to collaborate and learn together, shoot me an email or DM! :) 
+You can view more of my work at `swopnil.com` and you can reach me at `_ @ swopnil.com` or `t.me/swopnilnep`. If you have a project or opportunity that I might be interested in / would like to collaborate and learn together, shoot me an email or DM! :) 
 
-I am currently working on a React / PhotoSwipe project [Pho](https://github.com/swopnilnep/pho), and an image recognition project for our college cafeteria [How Busy is the Caf?](https://github.com/swopnilnep/HowBusyIsTheCaf).
+I am currently working on a React / PhotoSwipe project [Pho](https://github.com/swopnilnep/pho), and an image recognition API for the Luther College cafeteria [How Busy is the Caf?](https://github.com/swopnilnep/HowBusyIsTheCaf).
 
-### Github.INDEX
-Here is a categorized index of some of my projects on this repository:
+**Here is a categorized index of some of my projects on GitHub.:**
 
 Web Projects :
 * [swopnil.com - My Personal Website](https://github.com/swopnilnep/swopnilnep.github.io)
