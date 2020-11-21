@@ -11,7 +11,7 @@ I am currently working on a React / PhotoSwipe project [Pho](https://github.com/
 Web Projects
 * [swopnil.com - My Personal Website](https://github.com/swopnilnep/swopnilnep.github.io)
 * [Pho - React / Photoswipe Image Feed](https://github.com/swopnilnep/pho)
-* [Email Analytics - Platform for Analysis and Identifificaion of Unlawful Email Communication](https://github.com/swopnilnep/emailNetworkGraph)
+* [Email Analytics - Platform for Analysis and Identification of Unlawful Email Communication](https://github.com/swopnilnep/emailNetworkGraph)
 
 Cyber-Security
 * [A Simple VPN](https://github.com/swopnilnep/vpn)
