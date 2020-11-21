@@ -22,7 +22,7 @@ Data Science
 * [Convnet Comparison Models - A Comparison of AlexNet and LeNet CNN Algorithms](https://github.com/swopnilnep/ConvnetComparisonModels)
 * [Bikeshare - Data Visualization on NYC and Boston bikeshare statistics](https://github.com/swopnilnep/bikeshare)
 * [US Car Accidents (Data Analysis)](https://github.com/swopnilnep/us-car-accidents-ml)
-* [Data Science On Mars - Collection of Data Science Projects)]([Kattis Solutions](https://github.com/swopnilnep/kattis))
+* [Data Science On Mars - Collection of Data Science Projects]([Kattis Solutions](https://github.com/swopnilnep/kattis))
 
 Research
 * [Developmental Divergence of Artificial Neural Networks](https://github.com/swopnilnep/research/blob/master/Shrestha_2020.06.16_DevelopmentalDIvergenceOfArticialNeuralNetworks.pdf)
