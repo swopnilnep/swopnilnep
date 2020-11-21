@@ -2,11 +2,11 @@
 
 I'm Swopnil. I study Computer Science and Data Science at Luther College, IA. Welcome to my GitHub! 
 
-Feel free to browse around some of my open source work on GitHub. You can view more of my work at [swopnil.com](swopnil.com) and if you need to contact me, you can reach me at `_ @ swopnil.com` or [t.me/swopnilnep](t.me/swopnilnep). If you have a project or opportunity that I might be interested in or you want to collaborate and learn together, shoot me an email or DM! :) 
+Feel free to browse around some of my open source work on GitHub. You can view more of my work at `swopnil.com` and if you need to contact me, you can reach me at `_ @ swopnil.com` or `t.me/swopnilnep`. If you have a project or opportunity that I might be interested in or you want to collaborate and learn together, shoot me an email or DM! :) 
 
 I am currently working on a React / PhotoSwipe project [Pho](https://github.com/swopnilnep/pho), and an image recognition project for our college cafeteria [How Busy is the Caf?](https://github.com/swopnilnep/HowBusyIsTheCaf).
 
-## INDEX
+`github.index`
 Here is a categorized index of some of my projects on this repository:
 
 Web Projects :
@@ -27,7 +27,6 @@ Data Science:
 
 Research:
 * [Developmental Divergence of Artificial Neural Networks](https://github.com/swopnilnep/research/blob/master/Shrestha_2020.06.16_DevelopmentalDIvergenceOfArticialNeuralNetworks.pdf)
-
 
 Networking:
 * `Coming soon.. (2020/12)`
