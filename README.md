@@ -6,7 +6,7 @@ Feel free to browse around some of my open source work on GitHub. You can view m
 
 I am currently working on a React / PhotoSwipe project [Pho](https://github.com/swopnilnep/pho), and an image recognition project for our college cafeteria [How Busy is the Caf?](https://github.com/swopnilnep/HowBusyIsTheCaf).
 
-`github.index`
+### Github.INDEX
 Here is a categorized index of some of my projects on this repository:
 
 Web Projects :
