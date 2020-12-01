@@ -4,8 +4,6 @@ I'm Swopnil. I study Computer Science and Data Science at Luther College, IA. We
 
 You can view more of my work at `swopnil.com` and reach me at `_ @ swopnil.com` or `t.me/swopnilnep`. If you have a project or opportunity that you like to involve me in, or if you are interested in collaborating and learning together, send me an email or DM!
 
-I am currently working on a React / PhotoSwipe project [Pho](https://github.com/swopnilnep/pho), and an image recognition API for the Luther College cafeteria [How Busy is the Caf?](https://github.com/swopnilnep/HowBusyIsTheCaf).
-
 **Here is a categorized index of some of my projects on GitHub.:**
 
 Web Projects
