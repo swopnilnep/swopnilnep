@@ -14,7 +14,6 @@ Web Projects
 Cyber-Security
 * [A Simple VPN](https://github.com/swopnilnep/vpn)
 * [Ciphers, Authorization, Password Crackers (and other projects)](https://github.com/swopnilnep/informationAssuranceAndSecurity/tree/master/src/projects/passwords)
-* [Encrypt PGP Messages Securely](https://github.com/swopnilnep/pgp)
 
 Data Science
 * [Convnet Comparison Models - A Comparison of AlexNet and LeNet CNN Algorithms](https://github.com/swopnilnep/ConvnetComparisonModels)
