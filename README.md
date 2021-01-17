@@ -24,9 +24,6 @@ Data Science
 Research
 * [Developmental Divergence of Artificial Neural Networks](https://github.com/swopnilnep/research/blob/master/Shrestha_2020.06.16_DevelopmentalDIvergenceOfArticialNeuralNetworks.pdf)
 
-Networking
-* `Coming soon.. (2020/12)`
-
 Scripts / Reference Guides / Collections
 * [README Templates](https://github.com/swopnilnep/README-Template)
 * [Kattis Solutions](https://github.com/swopnilnep/kattis)
