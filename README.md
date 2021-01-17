@@ -2,7 +2,7 @@
 
 I'm Swopnil. I study Computer Science and Data Science at Luther College, IA. Welcome to my GitHub.
 
-You can view more of my work at `swopnil.com` and reach me at `_ @ swopnil.com` or `t.me/swopnilnep`. If you you would like to reach me securely, use [Keybase 🔑](https://keybase.io/swopnil).
+You can view more of my work at `swopnil.com` and reach me at `_ @ swopnil.com` or `t.me/swopnilnep`. If you you would like to contact me securely, use [Keybase 🔑](https://keybase.io/swopnil).
 
 **Here is a categorized index of some of my projects on GitHub.:**
 
