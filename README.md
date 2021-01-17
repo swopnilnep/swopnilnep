@@ -6,6 +6,9 @@ You can view more of my work at `swopnil.com` and reach me at `_@swopnil.com`. I
 
 **Here is a categorized index of some of my projects on GitHub.:**
 
+Ongoing
+* [Data Structures in Rust](https://github.com/swopnilnep/rusty)
+
 Web Projects
 * [swopnil.com - My Personal Website](https://github.com/swopnilnep/swopnilnep.github.io)
 * [Pho - React / Photoswipe Image Feed](https://github.com/swopnilnep/pho)
@@ -24,7 +27,7 @@ Data Science
 Research
 * [Developmental Divergence of Artificial Neural Networks](https://github.com/swopnilnep/research/blob/master/Shrestha_2020.06.16_DevelopmentalDIvergenceOfArticialNeuralNetworks.pdf)
 
-Scripts / Reference Guides / Collections
+Collections
 * [README Templates](https://github.com/swopnilnep/README-Template)
 * [Kattis Solutions](https://github.com/swopnilnep/kattis)
 * [Harvard CS50x Solutions 2018](https://github.com/swopnilnep/cs50x)
