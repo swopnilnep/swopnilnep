@@ -10,7 +10,7 @@ Ongoing
 * [Data Structures in Rust](https://github.com/swopnilnep/rusty)
 
 Web Projects
-* [swopnil.com - My Personal Website](https://github.com/swopnilnep/swopnilnep.github.io)
+* [swopnil.com - My Personal Website](https://github.com/swopnilnep/www)
 * [Pho - React / Photoswipe Image Feed](https://github.com/swopnilnep/pho)
 * [Email Analytics - Platform for Analysis and Identification of Unlawful Email Communication](https://github.com/swopnilnep/viz-email-analytics)
 
