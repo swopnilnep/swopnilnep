@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Swopnil. I am a Full-Stack Software Engineer based in Austin, TX. Welcome to my GitHub.
+I'm Swopnil. I am a Software Engineer based in Austin, TX. Welcome to my GitHub.
 
 You can view more of my work at `swopnil.com` and reach me at ` hello [at] swopnil.com`. If you you would like to contact me securely, use  [🔐](https://keybase.io/swopnil) `keybase.io/swopnil`.
 
