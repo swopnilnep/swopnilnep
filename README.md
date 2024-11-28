@@ -2,4 +2,4 @@
 
 I'm Swopnil. I am a Software Engineer based in Seattle, WA. Welcome to my GitHub.
 
-You can view more of my work at `swopnil.com` and reach me at ` hello [at] swopnil.com`.
+Most of my work has been proprietary or closed sourced software but you can view some of my open source work here or at `swopnil.com`.
